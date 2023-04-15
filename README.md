@@ -13,7 +13,7 @@ The folder contains the following python codes:
 
 
 
-The folder containes two sub-folders:
+The folder contains the following two sub-folders:
 - plots/ : folder containing all the plots, all the codes save the plots in this folder
 - results/ : folder containing the best trajectory npy files for both datasets, is used by texture_map.py to generate the texture map
 - videos/ : The videos of occupancy grip mad updates and texture map updates with time
